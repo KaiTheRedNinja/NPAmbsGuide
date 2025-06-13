@@ -7,10 +7,35 @@
       {
         "children" : [
           {
+            "icon" : "Checkmark.png",
+            "path" : "\/documentation\/notes\/ambs-intro",
+            "title" : "Ambs Intro",
+            "type" : "article"
+          },
+          {
+            "icon" : "Checkmark.png",
+            "path" : "\/documentation\/notes\/conduct-tips",
+            "title" : "Conduct Tips",
+            "type" : "article"
+          },
+          {
             "children" : [
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/campus-tour",
                 "title" : "Campus Tour",
+                "type" : "article"
+              },
+              {
+                "icon" : "Checkmark.png",
+                "path" : "\/documentation\/notes\/selling-points",
+                "title" : "Selling Points",
+                "type" : "article"
+              },
+              {
+                "icon" : "Checkmark.png",
+                "path" : "\/documentation\/notes\/admissions",
+                "title" : "Admissions",
                 "type" : "article"
               },
               {
@@ -18,11 +43,13 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-infocomm-technology",
                 "title" : "School of Infocomm Technology",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-life-sciences-and-chemical-technology",
                 "title" : "School of Life Sciences and Chemical Technology",
                 "type" : "article"
@@ -43,6 +70,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-engineering",
                 "title" : "School of Engineering",
                 "type" : "article"
@@ -53,11 +81,13 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-business-and-accountancy",
                 "title" : "School of Business and Accountancy",
                 "type" : "article"
               }
             ],
+            "icon" : "In Progress.png",
             "path" : "\/documentation\/notes\/product-knowledge",
             "title" : "Product Knowledge",
             "type" : "symbol"
@@ -68,6 +98,36 @@
         "type" : "module"
       }
     ]
+  },
+  "references" : {
+    "Checkmark.png" : {
+      "alt" : "Checkmark",
+      "identifier" : "Checkmark.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Checkmark.png"
+        }
+      ]
+    },
+    "In Progress.png" : {
+      "alt" : null,
+      "identifier" : "In Progress.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/In%20Progress.png"
+        }
+      ]
+    }
   },
   "schemaVersion" : {
     "major" : 0,

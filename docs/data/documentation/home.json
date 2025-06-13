@@ -299,12 +299,82 @@
     {
       "anchor" : "Topics",
       "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Ambs-Intro",
+        "doc:\/\/Notes\/documentation\/Notes\/Conduct-Tips",
         "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge"
       ]
     }
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Notes/Ambs-Intro": {
+  "abstract" : [
+    {
+      "text" : "How to introduce yourself",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ambs-Intro",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ambs Intro",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ambs-intro"
+},
+"doc://Notes/documentation/Notes/Conduct-Tips": {
+  "abstract" : [
+    {
+      "text" : "Tips about when you’re representing NP as an ambassador",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Conduct-Tips",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Conduct Tips",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/conduct-tips"
+},
 "doc://Notes/documentation/Notes/Product-Knowledge": {
   "abstract" : [
     {
@@ -313,6 +383,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Product Knowledge",

@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Campus Tour"
@@ -579,7 +585,7 @@
                       "type" : "text"
                     },
                     {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge#Budding-Entrepreneurs",
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Selling-Points#Budding-Entrepreneurs",
                       "isActive" : true,
                       "type" : "reference"
                     },
@@ -972,9 +978,46 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Selling-Points",
+        "doc:\/\/Notes\/documentation\/Notes\/Admissions"
+      ]
+    }
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -989,6 +1032,26 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/Admissions": {
+  "abstract" : [
+    {
+      "text" : "In case parents\/students ask about how to join NP",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Admissions",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Admissions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/admissions"
+},
 "doc://Notes/documentation/Notes/Product-Knowledge": {
   "abstract" : [
     {
@@ -997,21 +1060,47 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Product Knowledge",
   "type" : "topic",
   "url" : "\/documentation\/notes\/product-knowledge"
 },
-"doc://Notes/documentation/Notes/Product-Knowledge#Budding-Entrepreneurs": {
+"doc://Notes/documentation/Notes/Selling-Points": {
+  "abstract" : [
+    {
+      "text" : "Ways to promote NP!",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Selling-Points",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Selling Points",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/selling-points"
+},
+"doc://Notes/documentation/Notes/Selling-Points#Budding-Entrepreneurs": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge#Budding-Entrepreneurs",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Selling-Points#Budding-Entrepreneurs",
   "kind" : "section",
   "title" : "Budding Entrepreneurs",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/product-knowledge#Budding-Entrepreneurs"
+  "url" : "\/documentation\/notes\/selling-points#Budding-Entrepreneurs"
 }
 }
 }
