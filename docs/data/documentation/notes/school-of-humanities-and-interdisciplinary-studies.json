@@ -1,0 +1,164 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Humanities-and-Interdisciplinary-Studies"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "School of Humanities and Interdisciplinary Studies"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Academic-Schools",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/School-of-Infocomm-Technology",
+        "doc:\/\/Notes\/documentation\/Notes\/School-of-Life-Sciences-and-Chemical-Technology",
+        "doc:\/\/Notes\/documentation\/Notes\/School-of-Health-Sciences",
+        "doc:\/\/Notes\/documentation\/Notes\/School-of-Film-and-Media-Studies",
+        "doc:\/\/Notes\/documentation\/Notes\/School-of-Engineering",
+        "doc:\/\/Notes\/documentation\/Notes\/School-of-Design-and-Environment",
+        "doc:\/\/Notes\/documentation\/Notes\/School-of-Business-and-Accountancy"
+      ],
+      "title" : "Academic Schools"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "WELCOME TO NGEE ANNNNN! (very loud with frantically waving hands)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "NP Ambassadors Guide",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Product-Knowledge": {
+  "abstract" : [
+    {
+      "text" : "Our product is NP, and we need to be able to answer questions about it.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Product Knowledge",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/product-knowledge"
+},
+"doc://Notes/documentation/Notes/School-of-Business-and-Accountancy": {
+  "abstract" : [
+    {
+      "text" : "Business!",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Business-and-Accountancy",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Business and Accountancy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/school-of-business-and-accountancy"
+},
+"doc://Notes/documentation/Notes/School-of-Design-and-Environment": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Design-and-Environment",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Design and Environment",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/school-of-design-and-environment"
+},
+"doc://Notes/documentation/Notes/School-of-Engineering": {
+  "abstract" : [
+    {
+      "text" : "Engiiii",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Engineering",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Engineering",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/school-of-engineering"
+},
+"doc://Notes/documentation/Notes/School-of-Film-and-Media-Studies": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Film-and-Media-Studies",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Film and Media Studies",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/school-of-film-and-media-studies"
+},
+"doc://Notes/documentation/Notes/School-of-Health-Sciences": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Health-Sciences",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Health Sciences",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/school-of-health-sciences"
+},
+"doc://Notes/documentation/Notes/School-of-Infocomm-Technology": {
+  "abstract" : [
+    {
+      "text" : "Computersss",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Infocomm-Technology",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Infocomm Technology",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/school-of-infocomm-technology"
+},
+"doc://Notes/documentation/Notes/School-of-Life-Sciences-and-Chemical-Technology": {
+  "abstract" : [
+    {
+      "text" : "Bio on steroids",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Life-Sciences-and-Chemical-Technology",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Life Sciences and Chemical Technology",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/school-of-life-sciences-and-chemical-technology"
+}
+}
+}

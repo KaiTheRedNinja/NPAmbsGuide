@@ -1,0 +1,359 @@
+{
+  "abstract" : [
+    {
+      "text" : "WELCOME TO NGEE ANNNNN! (very loud with frantically waving hands)",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Home"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "color" : {
+      "standardColorIdentifier" : "purple"
+    },
+    "role" : "collection",
+    "roleHeading" : "Guide",
+    "title" : "NP Ambassadors Guide"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’m Kai, a Year 1 in Ngee Ann Polytechnic Ambassadors.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This is a mirror of my private notes, containing only Ambassadors related information.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.np.edu.sg\/student-life\/clubs-societies\/np-ambassadors",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more information about the Ngee Ann",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Polytechnic Ambassadors. Basically, we represent the school to the public, including prospective students, parents, and the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "general public.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Icon-Key",
+          "level" : 2,
+          "text" : "Icon Key",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🔄: In Progress",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "📝: Theres the minimal amount of something there, and I’m not planning to elaborate on it any time soon",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "📄 or something that looks like it: Not started (docc uses a custom icon that looks like that emoji’s outline)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "✅ or anything else: Completed (I might use different icons for different subjects or topics)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Disclaimer",
+          "level" : 2,
+          "text" : "Disclaimer",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I am in Group 2 (Ninjas) and the longest I will be in Ambassadors is from 2025 to 2027 (inclusive). If you are",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "reading this after 2027 or are from a different group, this information may not be accurate.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Credits",
+          "level" : 2,
+          "text" : "Credits",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Swift-Docc",
+          "level" : 3,
+          "text" : "Swift Docc",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "https:\/\/www.swift.org\/documentation\/docc\/",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " is the engine that powers this documentation",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My fork of the Docc renderer is available ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/github.com\/KaiTheRedNinja\/swift-docc-render",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". It adds LaTeX and colourful quotes,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "among other modifications.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Information",
+          "level" : 3,
+          "text" : "Information",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "identifier" : "https:\/\/www.np.edu.sg\/student-life\/clubs-societies\/np-ambassadors",
+                      "isActive" : true,
+                      "overridingTitle" : "NP Ambassadors Website",
+                      "overridingTitleInlineContent" : [
+                        {
+                          "text" : "NP Ambassadors Website",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Various presentations by Group 2 leaders, including Qi Xuan, Adelle, and Raeanne",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Copyright © 2024 Tay Kai Quan. NPAmbsGuide is licensed under the GPL-3.0 license",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            }
+          ],
+          "type" : "small"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Notes/Product-Knowledge": {
+  "abstract" : [
+    {
+      "text" : "Our product is NP, and we need to be able to answer questions about it.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Product Knowledge",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/product-knowledge"
+},
+"https://github.com/KaiTheRedNinja/swift-docc-render": {
+  "identifier" : "https:\/\/github.com\/KaiTheRedNinja\/swift-docc-render",
+  "title" : "here",
+  "titleInlineContent" : [
+    {
+      "text" : "here",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/github.com\/KaiTheRedNinja\/swift-docc-render"
+},
+"https://www.np.edu.sg/student-life/clubs-societies/np-ambassadors": {
+  "identifier" : "https:\/\/www.np.edu.sg\/student-life\/clubs-societies\/np-ambassadors",
+  "title" : "this link",
+  "titleInlineContent" : [
+    {
+      "text" : "this link",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.np.edu.sg\/student-life\/clubs-societies\/np-ambassadors"
+},
+"https://www.swift.org/documentation/docc/": {
+  "identifier" : "https:\/\/www.swift.org\/documentation\/docc\/",
+  "title" : "Swift Docc",
+  "titleInlineContent" : [
+    {
+      "text" : "Swift Docc",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.swift.org\/documentation\/docc\/"
+}
+}
+}

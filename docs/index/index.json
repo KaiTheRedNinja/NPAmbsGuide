@@ -1,0 +1,77 @@
+{
+  "includedArchiveIdentifiers" : [
+    "Notes"
+  ],
+  "interfaceLanguages" : {
+    "swift" : [
+      {
+        "children" : [
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/notes\/campus-tour",
+                "title" : "Campus Tour",
+                "type" : "article"
+              },
+              {
+                "title" : "Academic Schools",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-infocomm-technology",
+                "title" : "School of Infocomm Technology",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-life-sciences-and-chemical-technology",
+                "title" : "School of Life Sciences and Chemical Technology",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-health-sciences",
+                "title" : "School of Health Sciences",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-humanities-and-interdisciplinary-studies",
+                "title" : "School of Humanities and Interdisciplinary Studies",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-film-and-media-studies",
+                "title" : "School of Film and Media Studies",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-engineering",
+                "title" : "School of Engineering",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-design-and-environment",
+                "title" : "School of Design and Environment",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/school-of-business-and-accountancy",
+                "title" : "School of Business and Accountancy",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/notes\/product-knowledge",
+            "title" : "Product Knowledge",
+            "type" : "symbol"
+          }
+        ],
+        "path" : "\/documentation\/home",
+        "title" : "NP Ambassadors Guide",
+        "type" : "module"
+      }
+    ]
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 1,
+    "patch" : 2
+  }
+}
