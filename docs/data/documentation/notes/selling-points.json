@@ -50,6 +50,15 @@
         {
           "inlineContent" : [
             {
+              "text" : "Also NP keeps all courses up to date with industry standards",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "See ",
               "type" : "text"
             },

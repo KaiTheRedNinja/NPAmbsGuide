@@ -87,6 +87,20 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The source code for this website is ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/kaitheredninja.github.io\/NPAmbsGuide\/",
+              "isActive" : true,
+              "type" : "reference"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Icon-Key",
           "level" : 2,
           "text" : "Icon Key",
@@ -406,6 +420,18 @@
   ],
   "type" : "link",
   "url" : "https:\/\/github.com\/KaiTheRedNinja\/swift-docc-render"
+},
+"https://kaitheredninja.github.io/NPAmbsGuide/": {
+  "identifier" : "https:\/\/kaitheredninja.github.io\/NPAmbsGuide\/",
+  "title" : "available here",
+  "titleInlineContent" : [
+    {
+      "text" : "available here",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/kaitheredninja.github.io\/NPAmbsGuide\/"
 },
 "https://www.np.edu.sg/student-life/clubs-societies/np-ambassadors": {
   "identifier" : "https:\/\/www.np.edu.sg\/student-life\/clubs-societies\/np-ambassadors",

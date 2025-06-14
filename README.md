@@ -15,10 +15,13 @@ Note that we use a custom build of `swift-docc-render`, which provides LaTeX sup
 present in the default version of `swift-docc-render`. It sometimes doesn't apply itself, so if you encounter
 issues, run these commands in the terminal:
 ```shell
-export DOCC_HTML_DIR="/path/to/this/directory/dist"
+export DOCC_HTML_DIR="/path/to/the/jumbleum/dir/dist"
 xcrun docc convert . --transform-for-static-hosting
 make run
 ```
+
+Also I didn't include a copy of `dist` inside this repo because honestly I don't expect anybody else to
+contribute. If you want to add something to the repo, find a way to contact me.
 
 Visit http://localhost:8000/documentation/home/ to view NPAmbsGuide locally.
 

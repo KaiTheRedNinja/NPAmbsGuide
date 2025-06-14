@@ -252,6 +252,19 @@
                           "type" : "paragraph"
                         }
                       ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Pharmaceudical Science",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
                     }
                   ],
                   "type" : "unorderedList"
@@ -309,7 +322,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "?",
+                              "text" : "Psychology & Community Development",
                               "type" : "text"
                             }
                           ],
@@ -529,6 +542,85 @@
         {
           "inlineContent" : [
             {
+              "text" : "They are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Common Business Programme",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Common Media Programme",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Common Science Programme",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Common ICT Programme",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Common Engineering Programme",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "After Y1S2, they choose which course to take. ALL Y1 STUDENTS IN EACH SCHOOL TAKE THE SAME MODULES.",
               "type" : "text"
             },
@@ -615,13 +707,20 @@
           "type" : "paragraph"
         },
         {
-          "inlineContent" : [
+          "content" : [
             {
-              "text" : "CEPs are NOT diplomas!!!",
-              "type" : "text"
+              "inlineContent" : [
+                {
+                  "text" : "CEPs are NOT diplomas!!!",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
             }
           ],
-          "type" : "paragraph"
+          "name" : "Important",
+          "style" : "important",
+          "type" : "aside"
         },
         {
           "anchor" : "FAQ",
@@ -776,6 +875,29 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Switching-Course",
+          "level" : 3,
+          "text" : "Switching Course",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Ideally, you choose a course that you want to do. But if you realise you’re not interested (by the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "end of Y1), it’s “possible” to switch but there are a lot of prerequisites. Not recommended.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -968,9 +1090,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Design-and-Environment": {
   "abstract" : [
-
+    {
+      "text" : "Sustainable stuff, mostly",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Design-and-Environment",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Design and Environment",
@@ -999,9 +1130,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Film-and-Media-Studies": {
   "abstract" : [
-
+    {
+      "text" : "Yapping, but professionally",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Film-and-Media-Studies",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Film and Media Studies",
@@ -1010,9 +1150,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Health-Sciences": {
   "abstract" : [
-
+    {
+      "text" : "Doctor-adjacent-ish",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Health-Sciences",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Health Sciences",
@@ -1021,9 +1170,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Humanities-and-Interdisciplinary-Studies": {
   "abstract" : [
-
+    {
+      "text" : "Like humans? This is for you.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Humanities-and-Interdisciplinary-Studies",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Humanities and Interdisciplinary Studies",

@@ -1338,9 +1338,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Design-and-Environment": {
   "abstract" : [
-
+    {
+      "text" : "Sustainable stuff, mostly",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Design-and-Environment",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Design and Environment",
@@ -1369,9 +1378,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Film-and-Media-Studies": {
   "abstract" : [
-
+    {
+      "text" : "Yapping, but professionally",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Film-and-Media-Studies",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Film and Media Studies",
@@ -1380,9 +1398,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Health-Sciences": {
   "abstract" : [
-
+    {
+      "text" : "Doctor-adjacent-ish",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Health-Sciences",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Health Sciences",
@@ -1391,9 +1418,18 @@
 },
 "doc://Notes/documentation/Notes/School-of-Humanities-and-Interdisciplinary-Studies": {
   "abstract" : [
-
+    {
+      "text" : "Like humans? This is for you.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/School-of-Humanities-and-Interdisciplinary-Studies",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Humanities and Interdisciplinary Studies",

@@ -55,16 +55,19 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-health-sciences",
                 "title" : "School of Health Sciences",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-humanities-and-interdisciplinary-studies",
                 "title" : "School of Humanities and Interdisciplinary Studies",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-film-and-media-studies",
                 "title" : "School of Film and Media Studies",
                 "type" : "article"
@@ -76,6 +79,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/school-of-design-and-environment",
                 "title" : "School of Design and Environment",
                 "type" : "article"

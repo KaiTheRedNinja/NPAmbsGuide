@@ -18,6 +18,8 @@ See [this link](https://www.np.edu.sg/student-life/clubs-societies/np-ambassador
 Polytechnic Ambassadors. Basically, we represent the school to the public, including prospective students, parents, and the
 general public.
 
+The source code for this website is [available here](https://kaitheredninja.github.io/NPAmbsGuide/)
+
 ## Icon Key
 
 - 🔄: In Progress
