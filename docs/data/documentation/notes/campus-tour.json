@@ -984,7 +984,8 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Selling-Points",
-        "doc:\/\/Notes\/documentation\/Notes\/Admissions"
+        "doc:\/\/Notes\/documentation\/Notes\/Admissions",
+        "doc:\/\/Notes\/documentation\/Notes\/Ambs-Mind-Palace"
       ]
     }
   ]
@@ -1051,6 +1052,26 @@
   "title" : "Admissions",
   "type" : "topic",
   "url" : "\/documentation\/notes\/admissions"
+},
+"doc://Notes/documentation/Notes/Ambs-Mind-Palace": {
+  "abstract" : [
+    {
+      "text" : "My personal mind-palace-based method for remembering ambs PK",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ambs-Mind-Palace",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ambs Mind Palace",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ambs-mind-palace"
 },
 "doc://Notes/documentation/Notes/Product-Knowledge": {
   "abstract" : [

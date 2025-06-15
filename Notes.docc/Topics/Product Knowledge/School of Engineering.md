@@ -58,8 +58,8 @@ Courses:
 - Uni pathway programme with NUS and SUTD, letting students earn credits towards future degrees
 - Career Prospects:
     - Assistant biological engineer
-    - sales engineer
-    - field service engi
+    - Research Associate
+    - Field Service Engi
 
 ### Electrical Engi
 

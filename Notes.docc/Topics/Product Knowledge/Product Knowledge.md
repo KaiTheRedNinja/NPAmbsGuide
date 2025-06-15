@@ -20,6 +20,8 @@ Our product is NP, and we need to be able to answer questions about it.
 
 Hands on learning!
 
+I'm trying to remember these using an <doc:Ambs-Mind-Palace>
+
 ## Academic Schools
 
 The eight academic schools in Ngee Ann Polytechnic are, with their most popular course:
@@ -29,7 +31,7 @@ The eight academic schools in Ngee Ann Polytechnic are, with their most popular 
     - Biomedical Science
     - Pharmaceudical Science
 - <doc:School-of-Health-Sciences>
-    - ?
+    - Nursing
 - <doc:School-of-Humanities-and-Interdisciplinary-Studies>
     - Psychology & Community Development
 - <doc:School-of-Film-and-Media-Studies>
@@ -106,6 +108,7 @@ end of Y1), it's "possible" to switch but there are a lot of prerequisites. Not 
 - <doc:Campus-Tour>
 - <doc:Selling-Points>
 - <doc:Admissions>
+- <doc:Ambs-Mind-Palace>
 
 ### Academic Schools
 - <doc:School-of-Infocomm-Technology>

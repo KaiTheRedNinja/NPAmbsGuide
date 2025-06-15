@@ -170,13 +170,87 @@
           "type" : "heading"
         },
         {
-          "inlineContent" : [
+          "items" : [
             {
-              "text" : "We don’t focus on this very much. Tell them to google it or smth",
-              "type" : "text"
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Mid june (ITE) or Late june (O levels)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Up to 3 courses",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Aptitude-based admissions process",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Students receive conditional offers for admission before they receive their final examination results",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "After accepting, their place in NP is reserved",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "~20% of admission is through these",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
-          "type" : "paragraph"
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Full-Subject-Based-Banding",
@@ -388,7 +462,8 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Campus-Tour",
-        "doc:\/\/Notes\/documentation\/Notes\/Selling-Points"
+        "doc:\/\/Notes\/documentation\/Notes\/Selling-Points",
+        "doc:\/\/Notes\/documentation\/Notes\/Ambs-Mind-Palace"
       ]
     }
   ]
@@ -449,6 +524,26 @@
   "title" : "NP Ambassadors Guide",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Ambs-Mind-Palace": {
+  "abstract" : [
+    {
+      "text" : "My personal mind-palace-based method for remembering ambs PK",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ambs-Mind-Palace",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ambs Mind Palace",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ambs-mind-palace"
 },
 "doc://Notes/documentation/Notes/Campus-Tour": {
   "abstract" : [

@@ -39,6 +39,12 @@
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
+                "path" : "\/documentation\/notes\/ambs-mind-palace",
+                "title" : "Ambs Mind Palace",
+                "type" : "article"
+              },
+              {
                 "title" : "Academic Schools",
                 "type" : "groupMarker"
               },
@@ -119,7 +125,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

@@ -24,7 +24,12 @@ Best way to choose your 12 choices:
 
 ## Early Admissions Exercise (EAE)
 
-We don't focus on this very much. Tell them to google it or smth
+- Mid june (ITE) or Late june (O levels)
+- Up to 3 courses
+- Aptitude-based admissions process
+- Students receive conditional offers for admission before they receive their final examination results
+- After accepting, their place in NP is reserved
+- ~20% of admission is through these
 
 ## Full Subject Based Banding
 
