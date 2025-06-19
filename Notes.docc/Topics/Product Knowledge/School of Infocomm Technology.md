@@ -69,7 +69,7 @@ Courses:
 
 > Pitch: **interested in tech AND law**
 
-- First & only diploma to offer best-of-both-worlds
+- First & only diploma to offer best-of-both-worlds (of tech and law)
 - Emerging roles in law, IT, compliance
 - More **diverse uni degrees**
 - 70% ICT, 30% law

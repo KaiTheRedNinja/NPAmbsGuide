@@ -13,7 +13,6 @@ Talking points:
 - Highly regarded in industry with many notable alumni (Sonia Chew (radio personality), Anthony Chen (award winning producer))
 - State of the art facilities prep you to be future/career-ready (eg. tv production studios)
 - Internship opportunities with SPH, local radio stations, mediacorp
-- Strong focus on script-writing, so most have a minimum English requirement
 
 Courses:
 - Common Media Programme ⬆️
@@ -37,6 +36,7 @@ Courses:
 - SG's most established filmmaking course
 - Gain strong foundations in artistic/technical aspects of film making (eg. script writing, cinematography)
 - Produce your own documentaries/short fims
+- Strong focus on script-writing, so most have a minimum English requirement
 - Career Prospects:
     - Cinematographer
     - Director
@@ -63,4 +63,3 @@ Courses:
 - Career Prospects:
     - 2D/3D artist
     - Motion graphics artist
-    - Events crew

@@ -315,6 +315,7 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Ambs-Intro",
         "doc:\/\/Notes\/documentation\/Notes\/Conduct-Tips",
+        "doc:\/\/Notes\/documentation\/Notes\/Cheers",
         "doc:\/\/Notes\/documentation\/Notes\/Product-Knowledge"
       ]
     }
@@ -368,6 +369,20 @@
   "title" : "Ambs Intro",
   "type" : "topic",
   "url" : "\/documentation\/notes\/ambs-intro"
+},
+"doc://Notes/documentation/Notes/Cheers": {
+  "abstract" : [
+    {
+      "text" : "Take your self awareness and bury it where it will never again see the light of day",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Cheers",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Cheers",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/cheers"
 },
 "doc://Notes/documentation/Notes/Conduct-Tips": {
   "abstract" : [

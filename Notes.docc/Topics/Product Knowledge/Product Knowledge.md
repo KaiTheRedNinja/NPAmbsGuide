@@ -68,7 +68,7 @@ They are:
 - Common ICT Programme
 - Common Engineering Programme
 
-After Y1S2, they choose which course to take. ALL Y1 STUDENTS IN EACH SCHOOL TAKE THE SAME MODULES.
+After Y1S1 (or Y1S2 for BA), they choose which course to take. ALL Y1 STUDENTS IN EACH SCHOOL TAKE THE SAME MODULES.
 You will NOT BE "BEHIND".
 
 @Small {

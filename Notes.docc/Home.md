@@ -54,4 +54,5 @@ among other modifications.
 
 - <doc:Ambs-Intro>
 - <doc:Conduct-Tips>
+- <doc:Cheers>
 - <doc:Product-Knowledge>

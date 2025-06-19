@@ -84,6 +84,7 @@ Courses:
 > Pitch: **love working on programming and circuits**
 
 - Broad-based course for strong foundation in elec & circuits, software programming, and other in-demand digital tech
+- 2nd Major in Business
 - Choose from 2 specialisations:
     - AI of Things (AIoT): IoT but with AI to use smarter devices
     - Microelectronics: ICs, QC
@@ -127,6 +128,7 @@ Courses:
 
 - AR, Robot OS, Computer Vision, IoT
 - Broad-based curriculum, mainly focus on autonomous mobile and collaborative robotics
+- 2nd Major in Business
 - Specialisations:
     - Autonomous Systems: ROBOTS
     - Automation & Industrial Cybersecurity: Programming mechatronics systems

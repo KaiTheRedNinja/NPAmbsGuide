@@ -78,7 +78,7 @@ There are many initiatives open to ALL students, regardless of course, to provid
 resources to build businesses. Example:
 - Global Entrepreneurship Internship Programme (GEIP): Internships at overseas startups, SEA cities
 - Kickstart fund: $5K to fund students' business projects
-- Be Your Own Boss (BYOB) competition: Annual F&B competition, $5K given to winner to start cafe on campus. NP 
+- Be Your Own Boss (BYOB) competition: Biannual F&B competition, $5K given to winner to start cafe on campus. NP 
 exclusive! eg. mac and cheese store
 - Makers Academy: Build product prototypes FOR FREE
 

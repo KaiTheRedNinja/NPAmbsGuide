@@ -109,10 +109,29 @@ See <doc:School-of-Infocomm-Technology>
 > Note: Substituted with SST Inc., my secondary school's infocomm club room
 
 - **Common ICT Programme**: Projector area
+    - Build fundamentals
+    - SoICT has connections with msft, google, amazon
 - **Cybersecurity**: iMacs area
+    - Interested in ethical hacking
+    - Build secure software, investigate cybercrime, respond to cyberthreats
+    - Cutting edge facilities
+    - Careers: Cyber Risk Analyst, Digital Forensic Investigator
 - **Data Science**: Whiteboards
+    - Love analysing data
+    - Analyse business-related data to help understand customers and improve themselves
+    - 2nd major in business
+    - Specialisations: Data Engineering, Generative AI
+    - Careers: Data analyst, Business Analyst
 - **Information Technology**: Moving backboards
+    - Love all things IT
+    - Learn wide range of IT concepts, eg. cloud, blockchain, python, AI
 - **Computing with Law**: Boardroom
+    - First and only
+    - "Best of both worlds" approach
+    - Customisable pathways (1y internship or elective modules)
+    - Diverse opportunities in further studies
+    - Graduate with certifications (eg. AWS cloud practitioner)
+    - Careers: IP Paralegal, Legal Technologist
 
 ### Life Sciences and Chemical Technology
 
@@ -145,7 +164,16 @@ See <doc:School-of-Health-Sciences>
 > Note: Substituted by random stuff bc I have absolutely no clue where any of these are located
 
 - **Nursing**: Sports hall
+    - Love making a difference in people's lives
+    - Broad-based, extends into many different types of healthcare
+    - Attachments in Y1, up to 32 weeks
+    - Rotations to expose to different type of nursing, eg. children at KKH, A&E
+    - Careers: Registered Nurse
 - **Optometry**: Optometry center
+    - Love the eye
+    - Learn about eye anatomy, diagnosing eye conditions, and retail experience (eg. prescribing glasses/contacts)
+    - Optometry center newly renovated
+    - Careers: Retail Optometrist, Research Opotmetrist
 
 ### Humanities and Interdisciplinary Studies
 
@@ -163,9 +191,26 @@ See <doc:School-of-Humanities-and-Interdisciplinary-Studies>
 See <doc:School-of-Film-and-Media-Studies>
 
 - **Common Media Programme**: Benches waiting area
+    - Want to persue smth in media
+    - FMS is the original SG media school, w/ many notable alumni
+    - Internships with local radio stations, mediacorp
+    - State of the art facilities
 - **Mass Communication**: Mirrors
+    - Love filming, media, journalling
+    - First & Most Established media course in SG
+    - Broad-based media course, lets you branch out into many different types of media careers
+    - Careers: Advertising producer, Content producer
 - **Media Post Production**: Area outside mirrors
-- **Film, Sound, Video**: Hallway
+    - Interested in designing projections (light/sound/display)
+    - Only course that teaches about projection mapping
+    - Make your own light displays
+    - Careers: 2D/3D artist, Motion Graphics artist
+- **Film, Sound, Video**: 
+    - Interested in film making
+    - First & Most established filmmaking course
+    - Create your own documentaries/films
+    - Learn about cinematography, script writing, different artistic parts of film making
+    - Careers: Producer, Director
 
 ### Design and Environment
 
@@ -174,5 +219,21 @@ See <doc:School-of-Design-and-Environment>
 > Note: I have no clue if these places exist
 
 - **Design**: Waiting area inside
+    - Interested in design, want to learn more about UX
+    - Human-centric, impacting lives and communities
+    - Learn about both architecture and product design, tech infused curriculum teaching things like UX
+    - NP-SUTD pathway
+    - Careers: Product Designer, Architectural Associate
 - **Real Estate**: Entrance (outside)
+    - Interested in the real-estate industry
+    - Teaches about determing the value of land, managing real estate, NOT selling it
+    - Includes knowledge about smart building systems and data analytics
+    - Certification in BizSAFE fire safety
+    - Careers: Valuation Officer, Marketing Executive
 - **Hotel and Leisure Management**: Office area inside the building
+    - Interested in learning how to manage hotels/resorts sustainably
+    - Learn about both front and back end of managing hotels, shopping malls, resorts, with a focus on
+    sustainability, green building, security management
+    - Smart Integrated Operations Centre Learning Facility for hands-on learning
+    - NP-NUS Pathway Programme
+    - Careers: Guest Relations, Facility Management

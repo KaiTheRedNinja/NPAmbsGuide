@@ -917,6 +917,19 @@
                 {
                   "inlineContent" : [
                     {
+                      "text" : "2nd Major in Business",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
                       "text" : "Choose from 2 specialisations:",
                       "type" : "text"
                     }
@@ -1411,6 +1424,19 @@
                   "inlineContent" : [
                     {
                       "text" : "Broad-based curriculum, mainly focus on autonomous mobile and collaborative robotics",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "2nd Major in Business",
                       "type" : "text"
                     }
                   ],

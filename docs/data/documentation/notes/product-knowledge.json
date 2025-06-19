@@ -635,7 +635,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "After Y1S2, they choose which course to take. ALL Y1 STUDENTS IN EACH SCHOOL TAKE THE SAME MODULES.",
+              "text" : "After Y1S1 (or Y1S2 for BA), they choose which course to take. ALL Y1 STUDENTS IN EACH SCHOOL TAKE THE SAME MODULES.",
               "type" : "text"
             },
             {
@@ -930,7 +930,8 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Ambs-Intro",
-        "doc:\/\/Notes\/documentation\/Notes\/Conduct-Tips"
+        "doc:\/\/Notes\/documentation\/Notes\/Conduct-Tips",
+        "doc:\/\/Notes\/documentation\/Notes\/Cheers"
       ]
     }
   ],
@@ -1082,6 +1083,20 @@
   "title" : "Campus Tour",
   "type" : "topic",
   "url" : "\/documentation\/notes\/campus-tour"
+},
+"doc://Notes/documentation/Notes/Cheers": {
+  "abstract" : [
+    {
+      "text" : "Take your self awareness and bury it where it will never again see the light of day",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Cheers",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Cheers",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/cheers"
 },
 "doc://Notes/documentation/Notes/Conduct-Tips": {
   "abstract" : [

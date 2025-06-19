@@ -100,19 +100,6 @@
                   "type" : "paragraph"
                 }
               ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Strong focus on script-writing, so most have a minimum English requirement",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
             }
           ],
           "type" : "unorderedList"
@@ -303,6 +290,19 @@
                   "inlineContent" : [
                     {
                       "text" : "Produce your own documentaries\/short fims",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Strong focus on script-writing, so most have a minimum English requirement",
                       "type" : "text"
                     }
                   ],
@@ -597,19 +597,6 @@
                           "inlineContent" : [
                             {
                               "text" : "Motion graphics artist",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Events crew",
                               "type" : "text"
                             }
                           ],
